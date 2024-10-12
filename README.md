@@ -1,7 +1,7 @@
 # python-modifiers
 
 <!-- Description -->
-> Now, you can use access modifiers `private`, `protected` and `public` like in object-oriented languages for setting control to functions
+> Now, you can use access modifiers `private`, `protected` and `public` like in object-oriented languages for setting control over functions
 
 ## Install
 

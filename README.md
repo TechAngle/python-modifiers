@@ -48,7 +48,7 @@ P.S. Modifiers can only be used within classes; using  them outside of classes w
 
 ## Code example
 ```python
-from modifiers import private, public, protected
+from python_modifiers import private, public, protected
 
 class MyClass:
     @public

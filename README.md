@@ -44,6 +44,8 @@ import python_modifiers
     </tbody>
 </table>
 
+P.S. Modifiers can only be used within classes; using  them outside of classes will raise `ModifierOutsideOfClassException`!
+
 ## Code example
 ```python
 from modifiers import private, public, protected

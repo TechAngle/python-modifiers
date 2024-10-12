@@ -84,6 +84,12 @@ if __name__ == "__main__":
         print(e)
 ```
 
+## Todos
+
+- [ ] Publish on PyPi
+- [ ] Add support for static methods
+- [ ] Make simple, but nice docs
+
 ## Contributing
 
 Thank you for considering contributing to this project! Your contributions are welcome and appreciated. Here’s how you can help:

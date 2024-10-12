@@ -1,0 +1,1 @@
+LEVEL_EXCEPTION = "Function isn't avaliable due to its protect level."
